@@ -129,6 +129,59 @@ Additional:
 
 ---
 
+## Project Structure
+
+```text
+src
+ ├── controller
+ ├── service
+ ├── repository
+ ├── entity
+ ├── dto
+ ├── mapper
+ ├── security
+ ├── auth
+ ├── exception
+ ├── logging
+ ├── config
+ └── async
+```
+
+---
+
+## Database Entities
+
+The system includes:
+
+1. LauraNysanbekUser
+2. LauraNysanbekProduct
+3. LauraNysanbekCategory
+4. LauraNysanbekOrder
+5. LauraNysanbekOrderItem
+
+---
+
+## REST API Endpoints
+
+### Authentication
+
+Register:
+
+```http
+POST /api/auth/register
+```
+
+Login:
+
+```http
+POST /api/auth/login
+```
+
+---
+
+
+
+
 
 
 
