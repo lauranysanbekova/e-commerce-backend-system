@@ -152,7 +152,6 @@ src
 ## Database Entities
 
 The system includes:
-
 1. LauraNysanbekUser
 2. LauraNysanbekProduct
 3. LauraNysanbekCategory
