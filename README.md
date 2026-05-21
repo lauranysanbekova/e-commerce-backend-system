@@ -308,7 +308,6 @@ http://localhost:8081/swagger-ui/index.html
 ## Docker Support
 
 Implemented:
-
 - Dockerfile
 - docker-compose.yml
 - Multistage Build
