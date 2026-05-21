@@ -179,7 +179,39 @@ POST /api/auth/login
 
 ---
 
+### Products
 
+Get products:
+
+```http
+GET /api/products
+```
+
+Get product by id:
+
+```http
+GET /api/products/{id}
+```
+
+Create product:
+
+```http
+POST /api/products
+```
+
+Update product:
+
+```http
+PUT /api/products/{id}
+```
+
+Delete product:
+
+```http
+DELETE /api/products/{id}
+```
+
+---
 
 
 
