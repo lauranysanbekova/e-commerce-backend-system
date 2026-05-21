@@ -1,11 +1,16 @@
 # E-Commerce Backend System
 
-## Description
-This project is a Spring Boot backend application for an e-commerce system.
+## Project Description
 
-The application provides authentication, authorization, CRUD operations, file upload/download, asynchronous processing, filtering, pagination, and Docker support.
+E-Commerce Backend System is a Spring Boot based REST API application developed for managing an online store platform.
 
-1.0
+This project provides complete backend functionality including authentication and authorization, CRUD operations, JWT security, file upload/download, asynchronous processing, filtering, pagination, logging, Docker support and API documentation.
+
+The project follows a layered architecture:
+
+- Controller Layer
+- Service Layer
+- Repository Layer
 
 ## Technologies
 
