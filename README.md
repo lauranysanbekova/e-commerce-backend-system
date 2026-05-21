@@ -306,6 +306,44 @@ http://localhost:8081/swagger-ui/index.html
 
 ---
 
+## Docker Support
+
+Implemented:
+
+- Dockerfile
+- docker-compose.yml
+- Multistage Build
+- Health Check
+- Containerized PostgreSQL
+
+Run:
+
+```bash
+docker compose up --build
+```
+
+---
+
+## Run Application Locally
+
+```bash
+mvn spring-boot:run
+```
+
+---
+
+## Future Improvements
+
+- Payment Integration
+- Admin Dashboard
+- Email Notifications
+- Product Images
+- Order Tracking
+
+---
+
+
+
 
 
 
