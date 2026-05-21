@@ -5,7 +5,7 @@ This project is a Spring Boot backend application for an e-commerce system.
 
 The application provides authentication, authorization, CRUD operations, file upload/download, asynchronous processing, filtering, pagination, and Docker support.
 
----
+1.0
 
 ## Technologies
 
