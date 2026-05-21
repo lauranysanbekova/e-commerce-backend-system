@@ -333,6 +333,7 @@ mvn spring-boot:run
 ---
 
 ## Future Improvements
+
 - Payment Integration
 - Admin Dashboard
 - Email Notifications
