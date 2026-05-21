@@ -342,7 +342,11 @@ mvn spring-boot:run
 
 ---
 
+## Author
 
+Laura Nysanbekova
+
+IITU — Information Systems
 
 
 
