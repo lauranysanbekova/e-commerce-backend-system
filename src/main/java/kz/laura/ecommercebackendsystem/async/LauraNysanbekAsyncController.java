@@ -19,18 +19,9 @@ public class LauraNysanbekAsyncController {
         this.asyncService = asyncService;
     }
 
-    @GetMapping("/email")
-    public CompletableFuture<String> sendEmail() {
-        return asyncService.sendEmailAsync();
-    }
+    @GetMapping("/test")
+    public CompletableFuture<String> testAsync() {
 
-    @GetMapping("/report")
-    public CompletableFuture<String> generateReport() {
-        return asyncService.generateReportAsync();
-    }
-
-    @GetMapping("/order")
-    public CompletableFuture<String> processOrder() {
-        return asyncService.processOrderAsync();
+        return asyncService.processAsyncTask();
     }
 }
