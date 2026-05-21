@@ -290,7 +290,6 @@ LauraNysanbekLoggingFilter
 ## File Upload & Download
 
 Supports:
-
 - Upload files
 - Download files
 
