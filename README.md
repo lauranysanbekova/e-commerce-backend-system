@@ -38,6 +38,40 @@ The project follows a layered architecture:
 - Spring Security Integration
 - Authorization using Bearer Token
 
+---
+
+### User Management
+
+- Create User
+- Update User
+- Delete User
+- View User Information
+
+---
+
+### Product Management
+
+- Create Product
+- Update Product
+- Delete Product
+- View Products
+
+---
+
+### Category Management
+
+- Create Categories
+- Assign Products to Categories
+
+---
+
+### Order Management
+
+- Create Orders
+- Manage Order Items
+
+---
+
 ### CRUD Operations
 - Users
 - Products
