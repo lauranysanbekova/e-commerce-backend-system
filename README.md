@@ -213,6 +213,57 @@ DELETE /api/products/{id}
 
 ---
 
+## JWT Authentication
+
+Protected endpoints require JWT token.
+
+Header example:
+
+```text
+Authorization: Bearer your_jwt_token
+```
+
+---
+
+## Validation
+
+Validation annotations used:
+
+- @Valid
+- @NotBlank
+- @Email
+- @NotNull
+
+---
+
+## Exception Handling
+
+Global exception handling implemented using:
+
+```text
+GlobalExceptionHandler
+```
+
+---
+
+## DTO and Mapping
+
+Implemented:
+
+- DTO classes
+- Entity to DTO mapping
+- Mapper classes
+
+Example:
+
+```text
+LauraNysanbekProductMapper
+```
+
+---
+
+
+
 
 
 
