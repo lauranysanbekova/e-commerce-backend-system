@@ -262,7 +262,49 @@ LauraNysanbekProductMapper
 
 ---
 
+## Async Processing
 
+Implemented asynchronous operations using:
+
+- @Async
+- CompletableFuture
+
+---
+
+## Logging
+
+Logging implemented for:
+
+- Incoming requests
+- Important actions
+- Application events
+
+Example:
+
+```text
+LauraNysanbekLoggingFilter
+```
+
+---
+
+## File Upload & Download
+
+Supports:
+
+- Upload files
+- Download files
+
+---
+
+## API Documentation
+
+Swagger UI:
+
+```text
+http://localhost:8081/swagger-ui/index.html
+```
+
+---
 
 
 
