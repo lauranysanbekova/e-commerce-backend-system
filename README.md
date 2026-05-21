@@ -89,7 +89,45 @@ GET /api/products?page=0&size=5&sort=id
 
 ---
 
+## Technologies Used
 
+Backend:
+
+- Java 17
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+
+Security:
+
+- Spring Security
+- JWT Authentication
+
+Database:
+
+- PostgreSQL
+
+Documentation:
+
+- Swagger OpenAPI
+
+Containerization:
+
+- Docker
+- Docker Compose
+
+Build Tool:
+
+- Maven
+
+Additional:
+
+- Lombok
+- CompletableFuture
+- Async Processing
+
+---
 
 
 
