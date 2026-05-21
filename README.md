@@ -129,10 +129,6 @@ Additional:
 
 ---
 
-## API Testing
-
-API endpoints were tested using Postman.
-
 ## Project Structure
 
 ```text
