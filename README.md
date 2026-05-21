@@ -27,14 +27,16 @@ The project follows a layered architecture:
 
 ---
 
-## Features
+## Main Features
 
-### Authentication & Security
+### Authentication & Authorization
+
 - User Registration
 - User Login
-- JWT Token Authentication
+- JWT Token Generation
 - Protected Endpoints
-- Authorization using Spring Security
+- Spring Security Integration
+- Authorization using Bearer Token
 
 ### CRUD Operations
 - Users
