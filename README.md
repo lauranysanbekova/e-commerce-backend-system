@@ -249,7 +249,6 @@ GlobalExceptionHandler
 ## DTO and Mapping
 
 Implemented:
-
 - DTO classes
 - Entity to DTO mapping
 - Mapper classes
