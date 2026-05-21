@@ -72,6 +72,28 @@ The project follows a layered architecture:
 
 ---
 
+### Search Features
+
+Supports:
+
+- Pagination
+- Sorting
+- Filtering
+- Search
+
+Example:
+
+```http
+GET /api/products?page=0&size=5&sort=id
+```
+
+---
+
+
+
+
+
+
 ### CRUD Operations
 - Users
 - Products
